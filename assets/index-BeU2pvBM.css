@@ -1,0 +1,1 @@
+.squareDiv{display:flex;justify-content:center;align-items:center;height:900px}.square{width:200px;height:200px;background-color:#000;text-align:center;border-radius:100px;color:bisque;transition:.3s}.square:hover{transform:scale(1.1)}.square p{padding-top:80px}
